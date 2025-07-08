@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "288cbca1ff44e6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c79e58e8d2e4e5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9575221263da3a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculator Diagnostic App/Diagnostic 2.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagnostic 2.0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f65ddda256257f05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1502d1bc52b72703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612d2ef8b012d4a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e701ddcacc05db76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad3ef38a63cbc21e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3d0b41c8940892e",
+    "type": "split",
+    "children": [
+      {
+        "id": "500634cf896db2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3aa5100e6d6967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculator Diagnostic App/Calculator Diagnostic APP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Calculator Diagnostic APP"
+            }
+          },
+          {
+            "id": "6c4973fcd42b8358",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calculator Diagnostic App/Calculator Diagnostic APP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Calculator Diagnostic APP"
+            }
+          },
+          {
+            "id": "67733aac69792ef7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8d7ff7d87b40e744",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculator Diagnostic App/Diagnostic 2.0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Diagnostic 2.0"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "612d2ef8b012d4a4",
+  "lastOpenFiles": [
+    "Device New UI/New Firmware UI revamp.md",
+    "Device New UI/LVGL.md",
+    "Device New UI/Flow.md",
+    "Device New UI/Calculation whole flow.md",
+    "Refurbishments/logs.md",
+    "Commands.md",
+    "STASH.md",
+    "New App Structure ( Firmware ).md",
+    "V5-Improvements/Bugs  - V4 or V5 Device.md",
+    "V5-Improvements/Customer Support Issues.md",
+    "V5-Improvements/Big Improvements.md",
+    "Calculator Diagnostic App/Calculator Diagnostic APP.md",
+    "Calculator Diagnostic App/Diagnostic 2.0.md",
+    "Calculator Diagnostic App/SOP 1st Draft.md",
+    "V5-Improvements/Issues found.md",
+    "V5-Improvements/Bill sync delay issue.md",
+    "V5-Improvements/Changes to make.md",
+    "V5-Improvements/New printer template.md",
+    "Jun 10 ( one on one meet ).md",
+    "Untitled 1.md",
+    "V5-Improvements",
+    "Smart Calculator/Mixpanel.md",
+    "Smart Calculator/Add Sim support along with airtel ( jio and vi ).md",
+    "Production/REJECTED UNITS.md",
+    "Production",
+    "Smart Calculator",
+    "ble test pass logs -.md",
+    "Smart Calculator.md",
+    "Untitled 2.md",
+    "Pasted image 20250311100530.png",
+    "Pasted image 20250311095149.png",
+    "Refurbishments",
+    "Retrospective",
+    "Device New UI",
+    "Calculator Diagnostic App"
+  ]
+}
