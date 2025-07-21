@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9575221263da3a4e",
+            "id": "1b1b693d61ed3ae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculator Diagnostic App/Diagnostic 2.0.md",
+                "file": "Issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagnostic 2.0"
+              "title": "Issues"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculator Diagnostic App/Diagnostic 2.0.md",
+                "file": "Issues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diagnostic 2.0"
+              "title": "Outline of Issues"
             }
           }
         ],
@@ -166,37 +166,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "612d2ef8b012d4a4",
+  "active": "1b1b693d61ed3ae9",
   "lastOpenFiles": [
+    "STASH.md",
+    "Issues.md",
+    "Keyboard simulator handling code.md",
+    "New App Structure ( Firmware ).md",
+    "V5-Improvements/Big Improvements.md",
+    "Commands.md",
+    "V5-Improvements/QA Testing Structure – Alignment of Test Cases with Development.md",
+    "V5-Improvements/Scanner Verification.md",
+    "README.md",
+    "OTA ( post update.zip testing ).md",
+    "1000010878.jpg",
+    "V5-Improvements/Bugs  - V4 or V5 Device.md",
+    "V5-Improvements/Customer Support Issues.md",
+    "V5-Improvements/Issues found.md",
+    "V5-Improvements/Bill sync delay issue.md",
+    "V5-Improvements/Mixpanel.md",
+    "1000010894.jpg",
+    "1000010878 1.jpg",
+    "1000010891.jpg",
+    "1000010879.jpg",
+    "Calculator Diagnostic App/Diagnostic 2.0.md",
     "Device New UI/New Firmware UI revamp.md",
     "Device New UI/LVGL.md",
     "Device New UI/Flow.md",
     "Device New UI/Calculation whole flow.md",
     "Refurbishments/logs.md",
-    "Commands.md",
-    "STASH.md",
-    "New App Structure ( Firmware ).md",
-    "V5-Improvements/Bugs  - V4 or V5 Device.md",
-    "V5-Improvements/Customer Support Issues.md",
-    "V5-Improvements/Big Improvements.md",
     "Calculator Diagnostic App/Calculator Diagnostic APP.md",
-    "Calculator Diagnostic App/Diagnostic 2.0.md",
     "Calculator Diagnostic App/SOP 1st Draft.md",
-    "V5-Improvements/Issues found.md",
-    "V5-Improvements/Bill sync delay issue.md",
     "V5-Improvements/Changes to make.md",
     "V5-Improvements/New printer template.md",
     "Jun 10 ( one on one meet ).md",
-    "Untitled 1.md",
     "V5-Improvements",
-    "Smart Calculator/Mixpanel.md",
-    "Smart Calculator/Add Sim support along with airtel ( jio and vi ).md",
-    "Production/REJECTED UNITS.md",
     "Production",
     "Smart Calculator",
-    "ble test pass logs -.md",
-    "Smart Calculator.md",
-    "Untitled 2.md",
     "Pasted image 20250311100530.png",
     "Pasted image 20250311095149.png",
     "Refurbishments",
